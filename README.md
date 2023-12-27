@@ -3,7 +3,7 @@ A unity lighting optimization project in VR environment
 
 Unity Version: 2021.3.18.f1c1
 
-The project requires a VR headset to handle everthing, and there are two methods implemented in the project, which is LOD for real-time lights exclusively and light baking for static lights.  
+The project requires a VR headset to handle everything, and there are two methods implemented in the project, which are LOD for real-time lights exclusively and light baking for static lights.  
 When the scene is running, you can use the buttons to control if each module should be enabled/disabled.  
 The effect of optimization can be checked from the FPS param, which is also visulized on the screen.  
 
