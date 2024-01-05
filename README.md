@@ -8,3 +8,5 @@ When the scene is running, you can use the buttons to control if each module sho
 The effect of optimization can be checked from the FPS param, which is also visulized on the screen.  
 
 * Create a new project (Using VR template) with corresponding unity version, then delete all assets and import all from the unitypackage. The primary scene can be found at "Scene/SampleScene". Moreover, you may have to rebake the static lights at Windows->Rendering->Lighting->Scene->Generate Lights
+
+The demo video can be found here: https://youtu.be/KjCrWYwVpfk
